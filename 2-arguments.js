@@ -10,4 +10,6 @@ function msgArgs(args){
         
     }
 }
+msgArgs([])
+msgArgs(["a"])
 msgArgs(["a", "d"])
